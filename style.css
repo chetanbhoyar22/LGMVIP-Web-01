@@ -1,0 +1,38 @@
+.back-image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 70vh;
+  border-radius: 0px;
+  margin-top: 74px;
+}
+.h2 {
+  color: blue;
+  background-color: blue;
+}
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+}
+.navbar #myMenu .custom-nav .nav-item a {
+  color: white;
+}
+.card-body:hover{
+  background-color:yellow;
+}
+.st {
+  font-size: 24px;
+}
+a {
+  color: white;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover {
+  color: black;
+}
+.navbar {
+  color: blue;
+}
+a:hover {
+  color: #e994a2;
+}
