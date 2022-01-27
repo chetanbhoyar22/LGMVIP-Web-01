@@ -1,6 +1,6 @@
 #Task 1 - Single Page Website
 
-**Intern At LetsGrowMore**
+**Intern at LetsGrowMore**
 
 **Technologies Used : HTML, CSS, Bootstrap**
 
